@@ -14,7 +14,7 @@ global.namabot = [['AIR4']]
 global.wm2 = [['Hoh']]
 global.ownerinsta = [['@Iyan.dtz']]
 global.instalu = [['https://saweria.co/IyanMd'']]
-global.ytlu = [['https://saweria.co/IyanMd'']]
+global.gclu = [['https://chat.whatsapp.com/GOdtUKyFn04ECxqqOrFf4G'']]
 global.mods = [] 
 global.prems = ['6289516947204'] 
 
