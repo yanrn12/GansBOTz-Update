@@ -1,22 +1,22 @@
 let fs = require('fs')          
 let d = new Date(new Date + 3600000)
 let locale = 'id'
-//CREATOR = GEMPY , DEVBOT
+//CREATOR = iyan , AIR4
 let chalk = require('chalk')
 global.owner = [
-  ['6289509960601'],
-  ['6289509960601'],
-  ['6289509960601', 'Deffri', true]  
+  ['6289516947204'],
+  ['6289516947204'],
+  ['6289516947204', 'iyan', true]  
   
 ] 
-global.ownername = [['𝐃𝐞𝐟𝐟𝐫𝐢 𝐆𝐚𝐧𝐬']]
-global.namabot = [['𝑮𝒂𝒏𝒔𝑩𝑶𝑻𝒛']]
+global.ownername = [['Iyan 𝐆𝐚𝐧𝐬']]
+global.namabot = [['AIR4']]
 global.wm2 = [['Hoh']]
-global.ownerinsta = [['@b4c00t.dtz']]
-global.instalu = [['instagram.com/b4c00t.dtz']]
-global.ytlu = [['https://youtube.com/channel/UCmEQy5B3GhmfNVSrHEzv-uA']]
+global.ownerinsta = [['@Iyan.dtz']]
+global.instalu = [['https://saweria.co/IyanMd'']]
+global.ytlu = [['https://saweria.co/IyanMd'']]
 global.mods = [] 
-global.prems = ['6289509960601'] 
+global.prems = ['6289516947204'] 
 
 
 global.APIs = { // API Prefix
@@ -55,8 +55,8 @@ if (stickerpack.spackname == '') {
   var sticker_name = 'Deffri Gans'
   var sticker_author = 'By GansBOTz'
 } else {
-  var sticker_name = '𝐃𝐞𝐟𝐟𝐫𝐢 𝐆𝐚𝐧𝐬'
-  var sticker_author = 'by 𝑮𝒂𝒏𝒔𝑩𝑶𝑻𝒛'
+  var sticker_name = 'Iyan 𝐆𝐚𝐧𝐬'
+  var sticker_author = 'by AIR4𝑩𝑶𝑻𝒛'
 }
 
 const file_exif = "lib/exif.json"
@@ -70,7 +70,7 @@ fs.watchFile(file_exif, () => {
 // Sticker WM
 global.packname = sticker_name
 global.author = sticker_author
-global.wm = 'Created by GansBOTz'
+global.wm = 'Created by AIR4BOTz'
 
 global.multiplier = 1000 // The higher, The harder levelup
 
